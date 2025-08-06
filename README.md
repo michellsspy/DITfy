@@ -2,7 +2,7 @@
 
 **Solução Inteligente para Documentação Técnica Padronizada em Times de Dados**
 
-![Interface DITfy](docs/img/ditfy-interface.png)
+![Interface DITfy](![Interface DITfy](https://github.com/michellsspy/DITfy/blob/main/img/ditfy-interface.png?raw=true))
 *(Imagem ilustrativa)*
 
 ## 🌟 Visão Geral

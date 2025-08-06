@@ -111,7 +111,7 @@ http://127.0.0.1:7860
 
 ### **1. Configuração Inicial**
 
-![Interface DITfy](docs/img/ditfy-interface.png)
+![Interface DITfy](![Interface DITfy](https://github.com/michellsspy/DITfy/blob/main/img/ditfy-interface.png?raw=true))
 *(Imagem ilustrativa)*
 
 1. Clique em **"Criar Token OpenAI"** para acessar o site da OpenAI.
