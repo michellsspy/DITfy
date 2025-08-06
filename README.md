@@ -2,7 +2,7 @@
 
 **Solução Inteligente para Documentação Técnica Padronizada em Times de Dados**
 
-![Interface DITfy](img/ditfy-interface.png)
+![Interface DITfy](docs/img/ditfy-interface.png)
 *(Imagem ilustrativa)*
 
 ## 🌟 Visão Geral

@@ -1,4 +1,4 @@
-Claro! Aqui está o **manual atualizado** com todas as melhorias e sugestões aplicadas — incluindo: resumo executivo, pré-requisitos, exemplos de uso, seção sobre modo offline, instruções para uso em equipe e mais refinamentos para profissionalizar a entrega:
+Aqui está o **manual atualizado** incluindo: resumo executivo, pré-requisitos, exemplos de uso, seção sobre modo offline, instruções para uso em equipe e mais refinamentos para profissionalizar a entrega:
 
 ---
 
@@ -111,7 +111,7 @@ http://127.0.0.1:7860
 
 ### **1. Configuração Inicial**
 
-![Interface DITfy](img/ditfy-interface.png)
+![Interface DITfy](docs/img/ditfy-interface.png)
 *(Imagem ilustrativa)*
 
 1. Clique em **"Criar Token OpenAI"** para acessar o site da OpenAI.
