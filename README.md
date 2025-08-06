@@ -2,6 +2,9 @@
 
 **Solução Inteligente para Documentação Técnica Padronizada em Times de Dados**
 
+![Interface DITfy](img\Captura de tela 2025-08-04 213554.png)
+*(Imagem ilustrativa)*
+
 ## 🌟 Visão Geral
 
 Desenvolvemos uma solução inovadora que transforma notebooks Jupyter/Databricks em Documentos de Implementação Técnica (DIT) completos e padronizados, utilizando inteligência artificial para automatizar até 90% do processo de documentação.
@@ -171,7 +174,7 @@ Contribuições são bem-vindas! Siga o processo:
 ## ✉️ Contato
 
 Equipe prosite - [michellss.py@gmail.com](michel.prosite@gmail.com)  
-Projeto Link: [https://github.com/prosite/notebook-to-dit](https://github.com/prosite/notebook-to-dit)
+Projeto Link: [https://github.com/michellsspy/DITfy.git](https://github.com/michellsspy/DITfy.git)
 
 ---
 
